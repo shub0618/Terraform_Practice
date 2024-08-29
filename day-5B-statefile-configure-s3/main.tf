@@ -9,3 +9,4 @@ resource "aws_instance" "test" {
   }
 }
 
+# here the state file will not be created in local it will be created in the aws s3 bucket
