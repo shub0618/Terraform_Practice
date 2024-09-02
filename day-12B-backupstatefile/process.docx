@@ -1,0 +1,8 @@
+
+rm.tfstate : the primary statefile that terraform uses to track the current statefile
+rm.tfstate.backup : an automatically created backup of the state file by terraform itself
+kept in the same directory for saftey during updates
+
+
+my issue are  there with the current state you can switch to previous state with the help of backup file 
+mv terraform.tfstate.backup terraform.tfstate
