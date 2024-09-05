@@ -30,7 +30,7 @@ Providers supported by Terraform, there are officially 130 providers supported b
 
 
 
-## Install Terraform
+## Installing Terraform
 
 ##### Windows
 
