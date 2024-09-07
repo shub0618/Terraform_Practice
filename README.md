@@ -28,8 +28,6 @@ Providers supported by Terraform, there are officially 130 providers supported b
 - Kubernetes and so on
 
 
-
-
 ## Installing Terraform
 
 ##### Windows
