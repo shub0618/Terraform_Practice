@@ -114,7 +114,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ---
 
 ## Feedback
-If you have any feedback or suggestions, feel free to open an issue or reach out directly.
+If you have any feedback, suggestions or any questions feel free to reach out via the issues tab. 😊
 
 ---
 
