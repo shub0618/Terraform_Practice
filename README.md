@@ -43,7 +43,8 @@ For the [Terraform Registry](https://registry.terraform.io/providers/hashicorp/a
 Terraform-practice/
 ├── 1.29-Days-of-Terraform/              
 ├── 2.Practice-Part-1 /             
-├── 3.Practice-Part-2/                  
+├── 3.Practice-Part-2/
+├── 4.Cloud-State-Management/            
 ├── .gitignore/ 
 ├── LICENSE/
 ├── Terraform.md/       
