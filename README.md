@@ -44,7 +44,8 @@ Terraform-practice/
 ├── 1.29-Days-of-Terraform/              
 ├── 2.Practice-Part-1 /             
 ├── 3.Practice-Part-2/
-├── 4.Cloud-State-Management/            
+├── 4.Cloud-State-Management/
+├── 5.Terraform-for-EKS/            
 ├── .gitignore/ 
 ├── LICENSE/
 ├── Terraform.md/       
